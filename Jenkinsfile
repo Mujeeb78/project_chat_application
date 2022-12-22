@@ -27,11 +27,4 @@ pipeline {
         }
     }
 }
-This Jenkinsfile defines a pipeline with four stages: "Checkout", "Install dependencies", "Test", and "Build". The "Checkout" stage checks out the code from the repository, the "Install dependencies" stage installs the required npm packages, the "Test" stage runs the test suite, and the "Build" stage builds the project for production.
 
-Note that this is just one example of a build pipeline for a ReactJS project, and you may need to customize it according to your specific requirements.
-
-
-
-
-Regenerate
